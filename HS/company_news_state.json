@@ -4,14 +4,21 @@
     "https://netshop.impress.co.jp/r/prtimes/items/000000034.000043510",
     "https://www.logi-today.com/620702",
     "https://www.nikkan.co.jp/articles/view/00611130",
-    "https://mujin.co.jp/news/7584"
+    "https://mujin.co.jp/news/7584",
+    "https://netshop.impress.co.jp/r/prtimes/items/000000038.000043510",
+    "https://www.businesswire.com/news/home/20251202560677/en",
+    "https://www.businesswire.com/news/home/20250814187510/en",
+    "https://www.nikkan.co.jp/releases/view/173049",
+    "https://voix.jp/biz/news/138419/"
   ],
   "ビットキー": [
     "https://ascii.jp/elem/000/004/269/4269595/",
     "https://ascii.jp/elem/000/004/292/4292734/",
     "https://zaikei.co.jp/releases/2868759/",
     "https://ascii.jp/elem/000/004/200/4200299/",
-    "https://pc.watch.impress.co.jp/docs/release/atpress/1546750.html"
+    "https://pc.watch.impress.co.jp/docs/release/atpress/1546750.html",
+    "https://aeo.washinmura.jp/ai/bitkey-co-jp/en/news/2026-05-12-osaka-gas-urban-developments-rental-apar-2",
+    "https://zaikei.co.jp/releases/3023877/"
   ],
   "リージョナルフィッシュ": [
     "https://voix.jp/edu/news/65792/",
@@ -23,7 +30,9 @@
     "https://dxmagazine.jp/news/2540rk37-2/",
     "https://aismiley.co.jp/ai_news/toggle-holdings-ipo-approval/",
     "https://sogyotecho.jp/news/20260430toggle/",
-    "https://webtan.impress.co.jp/r/prtimes/items/000000008.000147886"
+    "https://webtan.impress.co.jp/r/prtimes/items/000000008.000147886",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000597.000002984",
+    "https://voix.jp/money/real-estate/23738/"
   ],
   "マネーフォワード": [
     "https://www.watch.impress.co.jp/docs/news/1481685.html",
@@ -34,13 +43,17 @@
   ],
   "カブアンドピース": [
     "https://voix.jp/money/insurance/18984/",
-    "https://www.bcnretail.com/market/detail/20250320_501751.html"
+    "https://www.bcnretail.com/market/detail/20250320_501751.html",
+    "https://voix.jp/money/?p=18984"
   ],
   "Unito": [
     "https://www.keidanren.or.jp/journal/monthly/2026/10_newface10.html",
     "https://thebridge.jp/2025/04/unito-has-raised-funding-in-a-series-d-round",
     "https://thebridge.jp/2025/07/blurring-the-line-between-living-and-staying-unito-raises-%c2%a51-billion-to-pioneer-a-new-real-estate-management-model",
-    "https://kepple.co.jp/articles/e4n8h7h61yw"
+    "https://kepple.co.jp/articles/e4n8h7h61yw",
+    "https://aeo.washinmura.jp/ai/unito-life/en/news/2026-06-01-%E6%9A%AE%E3%82%89%E3%81%99%E3%82%88%E3%81%86%E3%81%AB%E8%A1%97%E3%81%A8%E5%87%BA%E4%BC%9A%E3%81%86-unito-%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88-%E6%9D%B1%E4%BA%AC%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2-to",
+    "https://voix.jp/biz/?p=139608",
+    "https://voix.jp/money/?p=27344"
   ],
   "カケハシ": [
     "https://voix.jp/biz/news/169434/",
@@ -56,43 +69,62 @@
     "https://autoc-one.jp/news/5025335/",
     "https://autoc-one.jp/news/5040557/",
     "https://www.nikkan.co.jp/releases/view/180500",
-    "https://www.nikkan.co.jp/releases/view/181311"
+    "https://www.nikkan.co.jp/releases/view/181311",
+    "https://thebridge.jp/2026/10/terra-charge-raises-10-billion-yen-in-debt-financing-from-five-banks",
+    "https://kepple.co.jp/articles/53m6964sd",
+    "https://coki.jp/?p=67659",
+    "https://www.nikkan.co.jp/releases/view/222201",
+    "https://autoc-one.jp/news/5043610/",
+    "https://dime.jp/company_news/detail/?pr=2663876",
+    "https://car.watch.impress.co.jp/docs/news/1430352.html"
   ],
   "Terra Drone": [
     "https://terra-drone.net/global/2026/05/08/terra-drone-secures-jpy-115-4-million-order-from-japans-acquisition-technology-logistics-agency-for-300-domestically-produced-modular-uav-general-purpose-units/",
     "https://www.suasnews.com/2026/03/terra-drone-announces-strategic-entry-into-the-defense-equipment-market-as-drones-emerge-as-game-changers-in-modern-defense/",
     "https://terra-drone.net/global/2025/11/20/terra-drones-group-company-unifly-signs-mou-with-corepeelers-an-indian-aviation-technology-company-for-deployment-and-demonstration-of-drone-traffic-management-systems/",
     "https://webtan.impress.co.jp/r/prtimes/items/000000347.000020194",
-    "https://agri.mynavi.jp/prtimes/2025_10_16_391921/"
+    "https://agri.mynavi.jp/prtimes/2025_10_16_391921/",
+    "https://kabuyoho-sls-disclose.ifis.co.jp/fd9/140120260119535563.pdf",
+    "https://agri.mynavi.jp/prtimes/2025_11_07_405911/"
   ],
   "Terra Motors": [
     "https://bestcarweb.jp/?p=643379",
-    "https://autoc-one.jp/news/5016570/"
+    "https://autoc-one.jp/news/5016570/",
+    "https://autoc-one.jp/news/5022750/",
+    "https://autoc-one.jp/news/5019952/"
   ],
   "ispace": [
     "https://www.morningstar.com/news/business-wire/20261107316748/ispace-us-selected-to-support-nasa-moon-base-program",
     "https://ispace-inc.com/wp-content/uploads/2026/04/JP_ispace_press-release_MoU-with-KACST_FINAL.pdf",
     "https://prtimes.jp/main/html/rd/p/000000157.000140640.html",
     "https://prtimes.jp/main/html/rd/p/000000150.000140640.html",
-    "https://prtimes.jp/main/html/rd/p/000000146.000140640.html"
+    "https://prtimes.jp/main/html/rd/p/000000146.000140640.html",
+    "https://www.watch.impress.co.jp/docs/news/2123761.html",
+    "https://news.mynavi.jp/techplus/article/20260715-4704719/"
   ],
   "Genda": [
     "https://genda.jp/wp-content/uploads/2026/03/【GENDAプレスリリース】GENDA店舗展開進捗レポート_26年3月.pdf",
     "https://genda.jp/wp-content/uploads/2026/08/GENDAPR情報_Notice-Concerning-Conclusion-of-Partnership-Agreement-with-CyberAgent-Inc.pdf",
-    "https://www.gamebusiness.jp/special/recent/5846/GENDA"
+    "https://www.gamebusiness.jp/special/recent/5846/GENDA",
+    "https://s.minkabu.jp/stock/9166/news/4635608",
+    "https://www.oricon.co.jp/pressrelease/2925345/",
+    "https://zaikei.co.jp/releases/2845734/"
   ],
   "ミダスキャピタル": [
     "https://toyokeizai.net/articles/-/933969",
     "https://voix.jp/money/?p=25653",
     "https://webtan.impress.co.jp/r/prtimes/items/000000009.000130018",
     "https://webtan.impress.co.jp/r/prtimes/items/000000007.000130018",
-    "https://webtan.impress.co.jp/r/prtimes/items/000000016.000130018"
+    "https://webtan.impress.co.jp/r/prtimes/items/000000016.000130018",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000047.000058337",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000005.000058337"
   ],
   "五常アンドカンパニー": [
     "https://gojo.co/?p=32755",
     "https://gojo.co/category/press-releases-ja",
     "https://gojo.co/gojo-publishes-its-impact-report-2025-july",
     "https://gojo.co/gojo-launches-a-renewed-website-and-a-corporate-video",
-    "https://gojo.co/?p=33717"
+    "https://gojo.co/?p=33717",
+    "https://gojo.co/?p=35853"
   ]
 }
