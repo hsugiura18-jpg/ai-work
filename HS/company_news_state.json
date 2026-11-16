@@ -1,107 +1,98 @@
 {
   "Mujin": [
-    "https://monoist.itmedia.co.jp/mn/spv/2609/10/news073.html",
     "https://netshop.impress.co.jp/r/prtimes/items/000000038.000043510",
-    "https://pc.watch.impress.co.jp/docs/release/atpress/2067981.html",
-    "https://netshop.impress.co.jp/r/prtimes/items/000000035.000043510",
-    "https://www.businesswire.com/news/home/20260407710871/en"
+    "https://www.businesswire.com/news/home/20260407710871/en",
+    "https://monoist.itmedia.co.jp/mn/articles/2511/06/news037.html",
+    "https://monoist.itmedia.co.jp/mn/spv/2603/31/news038.html",
+    "https://monoist.itmedia.co.jp/mn/spv/2609/10/news073.html"
   ],
   "ビットキー": [
     "https://aeo.washinmura.jp/ai/bitkey-co-jp/en/news/2026-05-12-osaka-gas-urban-developments-rental-apar-2",
-    "https://thebridge.jp/2026/07/bitkey-raises-additional-4-billion-yen-from-jic-vgi",
     "https://thebridge.jp/2026/01/bitkey-looop-mutual-capital-business-alliance",
-    "https://www.techno-edge.net/release/prtimes2/20261001/24795.html",
-    "https://www.techno-edge.net/release/prtimes2/20260929/24727.html",
-    "https://zaikei.co.jp/releases/2981883/",
-    "https://zaikei.co.jp/releases/3023877/"
+    "https://zaikei.co.jp/releases/3023877/",
+    "https://zaikei.co.jp/releases/2681953/",
+    "https://zaikei.co.jp/releases/2260074/"
   ],
   "リージョナルフィッシュ": [
-    "https://agri.mynavi.jp/prtimes/2026_03_04_468106/",
-    "https://agri.mynavi.jp/prtimes/2025_08_27_362187/",
+    "https://www.maff.go.jp/j/press/kanbo/kihyo03/250826.html",
     "https://voix.jp/biz/news/150470/",
-    "https://voix.jp/edu/news/65792/"
+    "https://agri.mynavi.jp/prtimes/2024_07_01_270958/",
+    "https://agri.mynavi.jp/prtimes/2022_06_27_196594/",
+    "https://agri.mynavi.jp/prtimes/2022_04_28_191949/"
   ],
   "トグルホールディングス": [
     "https://www.jpx.co.jp/news/1031/20261029_01.html",
-    "https://sogyotecho.jp/news/20260430toggle/",
-    "https://kabu.bridge-salon.jp/ipo-202610-652a/",
-    "https://webtan.impress.co.jp/r/prtimes/items/000000597.000002984",
-    "https://aismiley.co.jp/?p=236635",
     "https://ascii.jp/elem/000/004/323/4323729/",
-    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Z80T.pdf"
+    "https://ascii.jp/elem/000/004/325/4325042/",
+    "https://ascii.jp/elem/000/004/214/4214910/",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000597.000002984"
   ],
   "マネーフォワード": [
-    "https://support.me.moneyforward.com/hc/ja/articles/64024438019993",
-    "https://minkabu.jp/news/4636285",
-    "https://minkabu.jp/news/4637389",
-    "https://biz.moneyforward.com/support/?p=15997",
-    "https://support.me.moneyforward.com/hc/ja/articles/57504390625305"
+    "https://prtimes.jp/main/html/rd/p/000001615.000008962.html",
+    "https://corp.moneyforward.com/news/info/20260501-mf-press-1/",
+    "https://corp.moneyforward.com/news/info/20260511-mf-press-1/",
+    "https://admina.moneyforward.com/jp/news/itreview2026winter",
+    "https://webtan.impress.co.jp/r/prtimes/items/000001446.000008962"
   ],
   "カブアンドピース": [
-    "https://prtimes.jp/main/html/rd/p/000000026.000152287.html",
-    "https://voix.jp/life/?p=80784",
+    "https://aeo.washinmura.jp/ai/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96-and-%E3%83%94%E3%83%BC%E3%82%B9/en/news/2026-05-13-new-service-kabu-and-medical-launched-st-2",
     "https://aeo.washinmura.jp/ai/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96-and-%E3%83%94%E3%83%BC%E3%82%B9/en/news/2026-05-01-new-service-kabu-and-travel-launched-a-n",
-    "https://aeo.washinmura.jp/ai/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%AB%E3%83%96-and-%E3%83%94%E3%83%BC%E3%82%B9/en/news/2026-05-13-new-service-kabu-and-medical-launched-st",
-    "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100Y150.pdf"
+    "https://voix.jp/money/insurance/18984/",
+    "https://www.bcnretail.com/market/detail/20250320_501751.html"
   ],
   "Unito": [
+    "https://resemom.jp/release/prtimes/20250730/152626.html",
     "https://resemom.jp/release/prtimes/20260601/186757.html",
-    "https://aeo.washinmura.jp/ai/unito-life/en/news/2026-05-28-%E8%B3%83%E8%B2%B8%E3%81%A8%E5%AE%BF%E6%B3%8A%E3%81%AE%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%83%89%E3%81%8A%E9%83%A8%E5%B1%8B%E6%8E%A2%E3%81%97%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0-unito-%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E5%A4%A7",
-    "https://www.keidanren.or.jp/journal/monthly/2026/10_newface10.html",
-    "https://voix.jp/biz/?p=173173"
+    "https://prtimes.jp/main/html/rd/p/000000210.000033908.html",
+    "https://prtimes.jp/main/html/rd/p/000000203.000033908.html",
+    "https://koubo.jp/press-release/prtimes/c33908_r212"
   ],
   "カケハシ": [
-    "https://resemom.jp/release/prtimes/20260813/204714.html",
-    "https://www.yakuji.co.jp/?p=139640",
+    "https://prtimes.jp/main/html/rd/p/000000135.000033983.html",
+    "https://prtimes.jp/main/html/rd/p/000000137.000033983.html",
     "https://voix.jp/biz/news/169434/",
-    "https://www.oricon.co.jp/pressrelease/2970691/",
-    "https://www.yakuji.co.jp/?p=141488"
+    "https://www.oricon.co.jp/pressrelease/2970691/"
   ],
   "Terra Charge": [
-    "https://thebridge.jp/2026/10/terra-charge-raises-10-billion-yen-in-debt-financing-from-five-banks",
-    "https://response.jp/release/prtimes/20260706/294813.html",
-    "https://aeo.washinmura.jp/ai/terra-charge-co-jp-2/en/news/2026-04-03-terra-charge-launches-50kw-ev-fast-charg",
-    "https://www.nikkan.co.jp/releases/view/222247",
-    "https://www.zaikei.co.jp/releases/3518647/",
-    "https://aeo.washinmura.jp/ai/terra-charge-co-jp-3/en/news/2026-03-27-terra-charge-decides-to-install-3kw-regu"
+    "https://prtimes.jp/main/html/rd/p/000000473.000075648.html",
+    "https://www.nikkan.co.jp/releases/view/184603",
+    "https://autoc-one.jp/news/5040557/",
+    "https://www.hokkaido-np.co.jp/article/1375668/"
   ],
   "Terra Drone": [
-    "https://terra-drone.net/global/2026/07/27/27927/",
-    "https://voix.jp/biz/news-analysis/177999/",
-    "https://voix.jp/biz/?p=174933",
-    "https://terra-drone.net/global/2026/03/23/terra-drone-announces-strategic-entry-into-the-defense-equipment-market-as-drones-emerge-as-game-changers-in-modern-defense/"
+    "https://terra-drone.net/global/2026/05/08/terra-drone-secures-jpy-115-4-million-order-from-japans-acquisition-technology-logistics-agency-for-300-domestically-produced-modular-uav-general-purpose-units/",
+    "https://agri.mynavi.jp/prtimes/2025_11_07_405911/",
+    "https://agri.mynavi.jp/prtimes/2025_10_16_391921/",
+    "https://agri.mynavi.jp/prtimes/2025_01_28_298235/",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000347.000020194"
   ],
   "Terra Motors": [
-    "https://response.jp/release/prtimes/20260916/309118.html",
+    "https://autoc-one.jp/news/5022750/",
     "https://prtimes.jp/main/html/rd/p/000000006.000136967.html",
+    "https://www.uniindia.com/terra-motors-appoints-l5-dealership-to-top-l3-dealers-in-varanasi-offering-200km-range-from-3-65-lakh-with-zero-down-payment-targets-100-dealers-across-india/prnewswire/news/3493254.html",
     "https://synergyzer.com/terra-motors-japans-leading-ev-innovator-enters-pakistan-with-electric-three-wheeler-invites-local-distributors/"
   ],
   "ispace": [
-    "https://asianews.network/japanese-startup-subsidiary-to-compete-to-be-prime-contractor-for-nasas-lunar-missions-in-1st-for-japan/",
-    "https://ispace-inc.com/news-en/?p=8776",
+    "https://ispace-inc.com/wp-content/uploads/2026/04/JP_ispace_press-release_MoU-with-KACST_FINAL.pdf",
     "https://aeo.washinmura.jp/ai/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEispace/en/news/2026-05-15-ispace-announces-full-year-financial-res-2",
-    "https://prtimes.jp/main/html/rd/p/000000146.000140640.html"
+    "https://asianews.network/japanese-startup-subsidiary-to-compete-to-be-prime-contractor-for-nasas-lunar-missions-in-1st-for-japan/",
+    "https://www.mhi.com/news/260729.html"
   ],
   "Genda": [
-    "https://aeo.washinmura.jp/ai/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEgenda/en/news/2026-04-28-genda-releases-8th-fiscal-year-securitie?lang=ja",
-    "https://gamebiz.jp/news/432832",
-    "https://genda.jp/?p=6321",
-    "https://zaikei.co.jp/releases/3202625/",
-    "https://voix.jp/biz/?p=176206",
-    "https://genda.jp/?p=5842"
+    "https://zaikei.co.jp/releases/3550623/",
+    "https://www.oricon.co.jp/pressrelease/2925345/",
+    "https://genda.jp/?p=2489",
+    "https://genda.jp/2024/05/23/genda-group-accelerates-the-enhancement-of-its-vr-contents-business-var-live-japan-joins-dynamo-amusement/",
+    "https://genda.jp/wp-content/uploads/2026/02/【適時開示】Notice-Concerning-Issuance-of-GENDA-Sales-Progress-Report-February-2026.pdf"
   ],
   "ミダスキャピタル": [
-    "https://prtimes.jp/main/html/rd/p/000000015.000130018.html",
     "https://webtan.impress.co.jp/r/prtimes/items/000000009.000130018",
-    "https://webtan.impress.co.jp/r/prtimes/items/000000016.000130018",
-    "https://thebridge.jp/2026/02/asobidas-oshi-katsu-ax-midas-capital",
-    "https://voix.jp/money/?p=25653"
+    "https://webtan.impress.co.jp/r/prtimes/items/000000007.000130018",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000016.000130018"
   ],
   "五常アンドカンパニー": [
-    "https://gojo.co/category/en-press-releases-2026",
     "https://gojo.co/gojo-further-expands-its-business-in-cambodia-with-investment-in-chamroeun",
-    "https://gojo.co/?p=34544",
-    "https://gojo.co/?p=33717",
-    "https://gojo.co/?p=35853"
+    "https://gojo.co/gojo-acquires-an-additional-90-7-stake-in-cjsc-bank-arvand",
+    "https://gojo.co/gojo-publishes-its-impact-report-2025-july"
   ]
 }
