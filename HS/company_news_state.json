@@ -3,27 +3,37 @@
     "https://netshop.impress.co.jp/r/prtimes/items/000000038.000043510",
     "https://www.kantei.go.jp/jp/105/actions/202609/25startup.html",
     "https://netshop.impress.co.jp/r/prtimes/items/000000035.000043510",
-    "https://netshop.impress.co.jp/r/prtimes/items/000000034.000043510"
+    "https://netshop.impress.co.jp/r/prtimes/items/000000034.000043510",
+    "https://pc.watch.impress.co.jp/docs/release/newscast/2008829.html",
+    "https://voix.jp/biz/news/138419/",
+    "https://www.nikkan.co.jp/releases/view/173049"
   ],
   "ビットキー": [
     "https://zaikei.co.jp/releases/3503403/",
     "https://zaikei.co.jp/releases/3473515/",
     "https://zaikei.co.jp/releases/3280380/",
     "https://thebridge.jp/2026/01/bitkey-looop-mutual-capital-business-alliance",
-    "https://prtimes.jp/main/html/rd/p/000000203.000040203.html"
+    "https://prtimes.jp/main/html/rd/p/000000203.000040203.html",
+    "https://prtimes.jp/main/html/rd/p/000000204.000040203.html",
+    "https://prtimes.jp/main/html/rd/p/000000207.000040203.html",
+    "https://www.techno-edge.net/release/prtimes2/20261001/24795.html"
   ],
   "リージョナルフィッシュ": [
     "https://agri.mynavi.jp/prtimes/2026_03_04_468106/",
     "https://www.maff.go.jp/kinki/tiiki/kyoto/260130rijyonaru.html",
     "https://agri.mynavi.jp/prtimes/2024_07_01_270958/",
     "https://agri.mynavi.jp/prtimes/2022_09_05_202791/",
-    "https://agri.mynavi.jp/prtimes/2022_04_28_191949/"
+    "https://agri.mynavi.jp/prtimes/2022_04_28_191949/",
+    "https://voix.jp/edu/news/65792/"
   ],
   "トグルホールディングス": [
     "https://www.jpx.co.jp/listing/stocks/new/t13vrt000002621i-att/10toggleholdings-Outline.pdf",
     "https://ascii.jp/elem/000/004/323/4323729/",
     "https://prtimes.jp/main/html/rd/p/000000094.000097866.html",
-    "https://webtan.impress.co.jp/r/prtimes/items/000000597.000002984"
+    "https://webtan.impress.co.jp/r/prtimes/items/000000597.000002984",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000008.000147886",
+    "https://prtimes.jp/main/html/rd/p/000000101.000097866.html",
+    "https://webtan.impress.co.jp/r/prtimes/items/000000037.000040089"
   ],
   "マネーフォワード": [
     "https://news.infoseek.co.jp/article/prtimes_000001675_000008962/",
@@ -36,27 +46,34 @@
     "https://voix.jp/money/insurance/18984/",
     "https://www.bcnretail.com/market/detail/20250320_501751.html",
     "https://disclosure2dl.edinet-fsa.go.jp/searchdocument/pdf/S100VJIR.pdf",
-    "https://biz-journal.jp/tag/%e3%82%ab%e3%83%96%ef%bc%86%e3%83%94%e3%83%bc%e3%82%b9"
+    "https://biz-journal.jp/tag/%e3%82%ab%e3%83%96%ef%bc%86%e3%83%94%e3%83%bc%e3%82%b9",
+    "https://voix.jp/money/?p=32664"
   ],
   "Unito": [
     "https://prtimes.jp/main/html/rd/p/000000210.000033908.html",
     "https://prtimes.jp/main/html/rd/p/000000212.000033908.html",
     "https://prtimes.jp/main/html/rd/p/000000211.000033908.html",
     "https://prtimes.jp/main/html/rd/p/000000198.000033908.html",
-    "https://prtimes.jp/main/html/rd/p/000000196.000033908.html"
+    "https://prtimes.jp/main/html/rd/p/000000196.000033908.html",
+    "https://prtimes.jp/main/html/rd/p/000000203.000033908.html",
+    "https://www.keihan.co.jp/corporate/info/release/assets/261021_keihan-real-estate.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000193.000033908.html"
   ],
   "カケハシ": [
     "https://prtimes.jp/main/html/rd/p/000000135.000033983.html",
     "https://www.phchd.com/jp/news/2019/1009",
     "https://www.phchd.com/jp/news/2019/1218",
-    "https://www.phchd.com/jp/phc/news/2020/0416"
+    "https://www.phchd.com/jp/phc/news/2020/0416",
+    "https://www.oricon.co.jp/pressrelease/2970691/",
+    "https://voix.jp/biz/news/169434/"
   ],
   "Terra Charge": [
     "https://response.jp/release/prtimes/20261006/312751.html",
     "https://response.jp/release/prtimes/20261028/321079.html",
     "https://response.jp/release/prtimes/20261021/317863.html",
     "https://www.oricon.co.jp/pressrelease/3082457/",
-    "https://www.zaikei.co.jp/releases/3518647/"
+    "https://www.zaikei.co.jp/releases/3518647/",
+    "https://response.jp/release/prtimes/20261002/311449.html"
   ],
   "Terra Drone": [
     "https://www2.jpx.co.jp/disc/278A0/140120260716595259.pdf",
@@ -75,14 +92,19 @@
     "https://ispace-inc.com/wp-content/uploads/2026/04/JP_ispace_press-release_MoU-with-KACST_FINAL.pdf",
     "https://prtimes.jp/main/html/rd/p/000000144.000140640.html",
     "https://prtimes.jp/main/html/rd/p/000000146.000140640.html",
-    "https://newswitch.jp/keyword/detail/28547"
+    "https://newswitch.jp/keyword/detail/28547",
+    "https://www.morningstar.com/news/business-wire/20261107316748/ispace-us-selected-to-support-nasa-moon-base-program",
+    "https://newspaceeconomy.ca/2026/11/12/ispace-nammo-lunar-lander-propulsion-procurement/",
+    "https://newspaceeconomy.ca/2026/11/13/ispace-ultra-preliminary-design-review-2028/",
+    "https://group.ntt/jp/newsrelease/2026/11/16/261116c.html"
   ],
   "Genda": [
     "https://newscast.jp/smart/news/3398509",
     "https://www.haveagood-holiday.com/en/articles/gigo-fandom-square-aeon-mall-okayama-opening",
     "https://genda.jp/2026/07/31/genda-opens-gigo-store-in-guam-making-the-gigo-brands-first-entry-into-the-u-s/",
     "https://genda.jp/wp-content/uploads/2026/07/【GENDA適時開示】Notice-Concerning-Conclusion-of-Capital-and-Business-Alliance-Agreement.pdf",
-    "https://zaikei.co.jp/releases/3159121/"
+    "https://zaikei.co.jp/releases/3159121/",
+    "https://www.inside-games.jp/release/prtimes/20260824/303093.html"
   ],
   "ミダスキャピタル": [
     "https://genda.jp/2026/02/03/asobidas-an-oshi-katsu-ax-company-invested-by-genda-has-officially-launched-providing-comprehensive-support-for-fan-based-businesses-across-all-sectors-includin/",
